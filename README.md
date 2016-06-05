@@ -20,7 +20,6 @@ there are 5 jacks - 2 inputs (D2/D3) and 3 outputs (D4-D6)
 clock pulse width. i.e. on a rising CLK signal, any drum which is meant to be played on the current step also goes high, and
 when CLK goes low, all drums also go low
 * RST (D3) - input : a rising edge forces the sequence to go to step 0
-
 * BD - output: sequence with density controlled by the BD knob
 * MD - output: sequence with density & offset controlled by the MD knobs
 * HD - output: sequence with density & offset controlled by the HD knobs
