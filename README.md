@@ -7,10 +7,10 @@ constructed using an Arduino Nano + Synovatron DIY Prototyping kit
 5 pots (A1..A5) control 3 drums
 
 * 'BD' - a beat (typically  going to a bass drum) has a single control) which is 'density' on scale of 1-8 (how many beats per 16)
-	...these beats are always on a 'down beat'
+	... these beats are always on a 'down beat'
 
 * 'MD' and 'HD' - other beats (typically a midrange tom/snare and a high hat) which have 'density' (0-16)  and 'offset'
-	.. offset changes the way the notes are distributed throughout the 16 beats 
+	... offset changes the way the notes are distributed throughout the 16 beats 
 			
 			
 
